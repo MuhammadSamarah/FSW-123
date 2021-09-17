@@ -33,5 +33,3 @@ export default class ToDo extends React.Component {
         )
     };
 }
-//<button onClick = {() => this.props.dltBtn(this.props.id)}>X</button>
-//<button onClick = {item.dltBtn}>X</button>

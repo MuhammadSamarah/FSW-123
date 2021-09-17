@@ -49,7 +49,7 @@ dltBtn = (e) => {
 render(){
     return (
       <div>
-        <h1>checklist</h1>
+        <h1>ToDoList 3</h1>
         <ToDo items = {this.state.items} toggleComplete = {this.toggleComplete} dltBtn = {this.dltBtn}/>
       </div>
     )
